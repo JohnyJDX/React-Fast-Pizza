@@ -17,8 +17,8 @@ Fast React Pizza Co. is a Redux project where people can order pizza without aut
 - Each order will get a unique ID that should be displayed, so the user can later look up their order based on the ID
 - Users should be able to mark their order as a “priority” order even after it has been placed
   
-
-- ## Technologies
+  
+## Technologies
 
 - React
 - Tailwindcss
